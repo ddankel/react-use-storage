@@ -1,6 +1,6 @@
 {
   "name": "react-use-storage",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "React hooks to use LocalStorage and SessionStorage to persist state",
   "main": "src/index.js",
   "repository": "https://github.com/ddankel/react-use-storage",
