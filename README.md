@@ -11,7 +11,7 @@ yarn add https://github.com/ddankel/react-use-storage\#main
 
 # or
 
-yarn add https://github.com/ddankel/react-use-storage\#main
+npm install https://github.com/ddankel/react-use-storage\#main
 ```
 
 ## Usage
